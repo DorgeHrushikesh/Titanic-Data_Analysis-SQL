@@ -10,7 +10,7 @@ The dataset used for this analysis is the Titanic dataset, which includes inform
 
 ## Analysis
 
-The analysis is performed using MS SQL Server, a powerful relational database management system. The SQL queries and scripts for the analysis can be found in the `sql` directory of this repository. The main analysis file is named `titanic_analysis.sql`, and you can execute it in MS SQL Server to perform the analysis.
+The analysis is performed using MS SQL Server, a powerful relational database management system. The SQL queries and scripts for the analysis can be found in the `sql` directory of this repository. The main analysis file is named `titanic.csv`, and you can execute it in MS SQL Server to perform the analysis.
 
 
 ## Results
